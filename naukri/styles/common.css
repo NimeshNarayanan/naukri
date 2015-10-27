@@ -1,0 +1,14 @@
+body {
+  background: #EECC90;
+  padding: 0;
+  margin: 0;
+}
+
+
+.page {
+  background: #FFF;
+  width: 1024px;
+  margin: 0 auto;
+  padding: 20px;
+  overflow: auto;
+}

@@ -1,0 +1,22 @@
+.jobs .skills {
+    height: 100px;
+    overflow: scroll;
+}
+
+.jobs > li {
+  width: 30%;
+  border: 1px solid #999;
+  border-radius: 3px;
+  float: left;
+  margin: 0 2% 3% 0;
+  padding: 5px;
+  box-sizing: border-box;
+  height: 180px
+}
+
+
+.jobs .skills {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}

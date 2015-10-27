@@ -1,0 +1,83 @@
+.page{
+	background: #FFF;
+	width: 1024px;
+	padding: 20px;
+	margin:10px;
+}
+body{
+	display: block;
+	padding:5px;	; 
+	color: #FF92D9;
+
+}
+div {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid gray;
+    margin: 25px;
+}
+.header{
+	margin-bottom: 8px;
+},
+
+.experiences{
+	font-size: 5px;
+},
+h1,h2,h3{
+	font-family: sans-serif;
+}
+h1{
+	color: ;
+	font-weight: 
+	font-size:;
+
+}
+h2{
+
+}
+h3{
+
+}
+a{
+	color: #FF92D9;
+	text-decoration: none;
+}
+a.hover{
+	color:;
+	text-decoration: underline;
+}
+a:active{
+	color: 
+}
+a.visited{
+	color: 
+}
+p,li,span{
+	line-height: 30px;
+
+}
+.job{
+	width:20px ;
+	border:1px,solid #666 ;
+}
+.job > li{
+	width:2px ;
+	border:1px,solid #666 ;
+	display: inline-block;
+	margin: 0px 10px ;
+	overflow: scroll;
+	box-sizing:border-box;
+}
+
+
+/*box
+------------------- padding for p
+-p ------------ margin for c
+-  -c
+-  -
+-  -
+-  -
+------------------*/
+.p{
+	padding: 
+}

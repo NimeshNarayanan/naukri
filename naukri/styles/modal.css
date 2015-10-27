@@ -1,0 +1,26 @@
+.modal {
+  display: none;
+}
+
+.modal.active {
+  display: block;
+}
+
+.modal .mask {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.modal .popup {
+  width: 500px;
+  background: #FFF;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -250px;
+  margin-top: -150px;
+}

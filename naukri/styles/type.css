@@ -1,0 +1,50 @@
+h1, h2, h3 {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #0C4689;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+h2 {
+  color: #2984EE;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+
+}
+
+h3 {
+  color: #333;
+  font-weight: 900;
+  font-size: 12px;
+  line-height: 30px;
+
+}
+
+a {
+  color: #89263D;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+a:visited {
+  color: #EE597D;
+}
+
+p, li, span {
+  color: #666;
+  font-weight: 300;
+  font-size; 12px;
+  line-height: 18px;
+}

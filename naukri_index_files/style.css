@@ -1,0 +1,25 @@
+body{
+	display: block;
+	margin: 
+	color: #FFFFFF
+},
+.header{
+	margin-bottom: 8px;
+},
+small{
+	font-size: 5px
+},
+.experiences{
+	font-size: 5px;
+},
+#lft_column {
+    width: 445px;
+    float: left;
+},
+.heading_txt {
+    font-family: Georgia;
+    font-size: 25px;
+    color: #c57621;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e1e1e1;
+}
